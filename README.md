@@ -1,4 +1,4 @@
-# Classificao de Escolas Literarias Brasileiras Utilizando arvores de Decisao
+# Classifição de Escolas Literarias Brasileiras Utilizando arvores de Decisao
 Algoritimo desenvolvido para Classificar as Escolas Literárias Brasileiras.
 
 Para executar este código, é necessário que instale o software "VS Code" (Visual Studio Code), ou algum semelhante. Também sendo de grande alternativa compiladores online que executem em Python
