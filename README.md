@@ -1,8 +1,10 @@
 # Classificação de Escolas Literárias Brasileiras Utilizando Árvores de Decisão
 Algoritimo desenvolvido para Classificar as Escolas Literárias Brasileiras.
 
+IMPORTANTE: FAÇA O DOWNLOAD DE TODOS OS ARQUIVOS .txt, .pkl E .py PARA FAZER O AlGORITIMO FUNCIONAR
+
 Para executar este código, é necessário que instale o software "VS Code" (Visual Studio Code), ou algum semelhante. Também sendo de grande alternativa compiladores online que executem em Python
-Ao adentrar o terminal do VS Code, deves digitar, para executar o código após abrir o terminal, os comandos acima da primeira linha de código.
+Ao adentrar o terminal do VS Code, deves digitar, para executar o código após abrir o terminal, os comandos acima da primeira linha de código, e então quando já tiver parecido com aquela linha usando o comando "cd", no terminal digite "python arvore_treino.py" se quizer executar o código de criar a árvore (o que não será preciso), ou digite direto  "python classificador_textos.py" e coloque seu texto para classificar o seu texto.
 O código conta com os 5 períodos literários iniciais da disciplina de literatura, sendo eles: Quinhentismo, Barroco, Arcadismo, Romantismo e Realismo. 
 
 Para melhor entendimento e aprendizado sobre como interagir com o código, selecione algum texto que supõe estar situado entre os demais 5 períodos literários acima, valendo salientar que somente obras que são consideradas "literárias" podem ser executadas (Sem presença de quebra de linha na entrada do comando ao digitar ou, caso não atendido, será recebido com erro).
