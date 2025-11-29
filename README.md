@@ -10,6 +10,7 @@ Para melhor entendimento e aprendizado sobre como interagir com o código, selec
 Exemplo de trecho de obra a ser utilizada:
 
 "Imagem da vida e feitos memoráveis de vossa mercê, quis primeiro fazer este riscunho, pera depois, sendo-me concedido por vossa mercê, ir mui particularmente pintando os membros desta Imagem, se não me faltar a tinta do favor de vossa mercê, a quem peço, humildemente, receba minhas Rimas, por serem as primícias com que tento servi-lo. E porque entendo que as aceitará  com aquela benevolência e brandura natural, que custuma, respeitando mais  a pureza do ânimo que a vileza do presente, não me fica mais que desejar, se não ver a vida de vossa mercê augmentada e estado prosperado, como todos os seus súbditos desejamos."
-Prosopopeia, de Bento Teixeira.
-Saída esperada: Barroco.
 
+Prosopopeia, de Bento Teixeira.
+
+Saída esperada: Barroco.
