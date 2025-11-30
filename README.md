@@ -16,3 +16,5 @@ Exemplo de trecho de obra que você pode utilizar para testar o programa (caso d
 Este é um trecho da obra "Prosopopeia" (1601), de Bento Teixeira.
 
 Saída esperada caso a entrada anterior seja inserida: "Barroco".
+
+Link Video de Explicação do Código: https://youtu.be/pZ_J-H8Gfg4?si=a7L4SZpz1pNC3MTn
